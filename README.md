@@ -12,7 +12,11 @@ This project template assumes the following about the system it's running on:
 	- It may take some experimentation to get this working on your system; I had to use a [different set of command-line arguments](https://github.com/dorssel/usbipd-win/issues/251#issuecomment-1704416339) on my workstation
 
 ## Usage
-Clone the repo and its submodules with `git clone --recursive https://github.com/aschuhardt/esp-template#install-the-usbipd-win-project`
+Clone the repo and its submodules
+
+```
+git clone --recursive https://github.com/aschuhardt/esp-template#install-the-usbipd-win-project
+```
 
 Run `config.cmd` from the project root to generate the SDK configuration file
 
