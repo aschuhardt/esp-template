@@ -1,0 +1,6 @@
+compile_commands.json
+*.sublime-project
+*.sublime-workspace
+sdkconfig*
+build/
+.cache/
